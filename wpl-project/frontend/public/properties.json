@@ -1,0 +1,644 @@
+[
+    {
+        "id": 1,
+        "userId": "63946da47827431257686fce",
+        "title": "Lazy Acres Farmhouse",
+        "shortDescription": "This home is very close to wedding venues, Hurricane Creek Country Club, and a short drive to downtown McKinney.",
+        "fullDescription": "Long or short term rental. This cutie of a farm house was built in 1841 and is one of the oldest homes in Collin County. Wrap around covered porch with a swing to watch the sunset or overlook the 40 plus acres of rolling meadows and trees surrounding the home. You could possibly spot some deer, wild turkey, or hear the coyotes howl at the full moon. This home is very close to wedding venues, Hurricane Creek Country Club, and a short drive to downtown McKinney.",
+        "city": "Anna",
+        "state": "Texas",
+        "country": "United States",
+        "location": "Anna, Texas, United States",
+        "isAvailable": true,
+        "hostName": "Eric",
+        "hostMessage": "Entire cottage hosted by Eric",
+        "nightlyFee": 175,
+        "cleaningFee": 25,
+        "serviceFee": 28,
+        "guests": 6,
+        "bedrooms": 3,
+        "beds": 4,
+        "baths": 1.5,
+        "images": [
+            "1-001.jpg",
+            "1-002.jpg",
+            "1-003.jpg",
+            "1-004.jpg",
+            "1-005.jpg"
+        ],
+        "thumbnail": "1-001.jpg",
+        "amenities": [
+            "Kitchen, ",
+            "Free parking on premises, ",
+            "Pets allowed, ",
+            "Wifi, ",
+            "Air conditioning, ",
+            "TV, ",
+            "Pool, ",
+            "Indoor fireplace"
+        ],
+        "reviews": {
+            "stars": 4.33,
+            "totalReviews": 3,
+            "review": [
+                {
+                    "name": "Craig",
+                    "date": "September 2022",
+                    "ratings": 4,
+                    "description": "The house and location are just as described, if not better. Vicki's communication was excellent and fast. Staying here was like staying at a friend's home instead of a pay to stay place."
+                },
+                {
+                    "name": "Rachel",
+                    "date": "August 2022",
+                    "ratings": 4,
+                    "description": "The place was amazing and the perfect getaway I needed while visiting family in the area!"
+                },
+                {
+                    "name": "Leslie",
+                    "date": "July 2022",
+                    "ratings": 5,
+                    "description": "We had an amazing stay, the location was perfect! The place was comfy, clean and had a perfect view of the sunset. The hosts were very sweet, communicated very well and were great!!!"
+                }
+            ]
+        },
+        "houseRules": [
+            "Check-in: After 3:00 PM",
+            "Checkout: 10:00 AM",
+            "Self check-in with smart lock",
+            "No smoking",
+            "Pets are allowed"
+        ],
+        "healthAndSafety": [
+            "Security camera/recording device",
+            "Nearby lake, river, other body of water",
+            "Heights without rails or protection",
+            "May encounter potentially dangerous animal"
+        ],
+        "cancellationPolicy": "Partial refund: Get back 50% of every night but the first one. No refund of the first night or the service fee."
+    },
+    {
+        "id": 2,
+        "userId": "63946da47827431257686fce",
+        "title": "Shores of Panama 511 Remodeled Lower Level!",
+        "shortDescription": "This property features 100% sanitized, clean sheets and towels, professionally cleaned by Gulf Coast Laundry Services.",
+        "fullDescription": "This property features 100% sanitized, clean sheets and towels, professionally cleaned by Gulf Coast Laundry Services. They are the ONLY linen service in the area that guarantees completely clean, sanitized and freshly ironed sheets and towels, giving you peace of mind and a great night's rest! Vacation Life Properties and Gulf Coast Laundry Services are proud to partner together to give you the cleanest, safest linens possible. Our Housekeeping Team utilizes the safest, most effective disinfecting techniques, as recommended by the CDC, to ensure that your property is the cleanest and safest it can be.",
+        "city": "Panama City Beach",
+        "state": "Florida",
+        "country": "United States",
+        "location": "Panama City Beach, Florida, United States",
+        "isAvailable": true,
+        "hostName": "Vacation Life Properties",
+        "hostMessage": "Entire condo hosted by Vacation Life Properties",
+        "nightlyFee": 126,
+        "cleaningFee": 309,
+        "serviceFee": 79,
+        "guests": 6,
+        "bedrooms": 2,
+        "beds": 4,
+        "baths": 2,
+        "images": [
+            "2-001.jpg",
+            "2-002.jpg",
+            "2-003.jpg",
+            "2-004.jpg",
+            "2-005.jpg"
+        ],
+        "thumbnail": "2-001.jpg",
+        "amenities": [
+            "Beach access - Beachfront, ",
+            "Wifi, ",
+            "Hot tub, ",
+            "Elevator, ",
+            "Dryer, ",
+            "Kitchen, ",
+            "Air conditioning, ",
+            "TV, ",
+            "Pool"
+        ],
+        "reviews": {
+            "stars": 4,
+            "totalReviews": 2,
+            "review": [
+                {
+                    "name": "Deidre",
+                    "date": "June 2022",
+                    "ratings": 4,
+                    "description": "Good location. The room was beautiful, the floor could have been swept better prior to our arrival but other than that it was great. The resort staff was very rude and not helpful at all."
+                },
+                {
+                    "name": "Brandon",
+                    "date": "September 2021",
+                    "ratings": 4,
+                    "description": "Great condo, clean, spacious. Couldn’t have asked for much more. Thanks for everything."
+                }
+            ]
+        },
+        "houseRules": [
+            "Check-in: After 4:00 PM",
+            "Checkout: 10:00 AM",
+            "Self check-in with smart lock",
+            "No smoking",
+            "No pets",
+            "No parties or events"
+        ],
+        "healthAndSafety": [
+            "Security camera/recording device",
+            "No carbon monoxide alarm",
+            "Smoke Alarm",
+            "May encounter potentially dangerous animal"
+        ],
+        "cancellationPolicy": "No refund"
+    },
+    {
+        "id": 3,
+        "userId": "63946da47827431257686fce",
+        "title": "HIGHLANDS CASTLE... overlooking Lake George!",
+        "shortDescription": "Highlands Castle is a hidden jewel in a private setting, yet only 3-minutes from downtown Bolton Landing",
+        "fullDescription": "Highlands Castle is a hidden jewel in a private setting, yet only 3-minutes from downtown Bolton Landing with conveniences of a supermarket, gourmet restaurants, wine store, brewery, unique shops, 2-public parks with picnic areas, 2-public beaches, swimming, fishing, kayaking, tennis, golf, miniature golf, hiking trails, bicycling, boat rentals, scenic boat cruises, and more!",
+        "city": "Bolton",
+        "state": "New York",
+        "country": "United States",
+        "location": "Bolton, New York, United States",
+        "isAvailable": true,
+        "hostName": "John",
+        "hostMessage": "Castle hosted by John",
+        "nightlyFee": 8295,
+        "cleaningFee": 795,
+        "serviceFee": 8310,
+        "guests": 8,
+        "bedrooms": 4,
+        "beds": 4,
+        "baths": 2.5,
+        "images": [
+            "3-001.jpg",
+            "3-002.jpg",
+            "3-003.jpg",
+            "3-004.jpg",
+            "3-005.jpg"
+        ],
+        "thumbnail": "3-001.jpg",
+        "amenities": [
+            "Mountain view, ",
+            "Kitchen, ",
+            "Dedicated workspace, ",
+            "Lake access, ",
+            "Dryer, ",
+            "Kitchen, ",
+            "Central air conditioning, ",
+            "TV, ",
+            "Pool"
+        ],
+        "reviews": {
+            "stars": 4,
+            "totalReviews": 2,
+            "review": [
+                {
+                    "name": "Jonathan",
+                    "date": "March 2019",
+                    "ratings": 4,
+                    "description": "Amazing space, wonderful location, wonderful everything. Thank you John!!"
+                },
+                {
+                    "name": "Ross",
+                    "date": "May 2016",
+                    "ratings": 4,
+                    "description": "The castle and view is beyond any words. The memory of being in the castle will be our forever precious. Come and build your own memory... you won’t believe how amazing it is."
+                }
+            ]
+        },
+        "houseRules": [
+            "Check-in: After 3:00 PM",
+            "Checkout: 11:00 AM",
+            "No smoking",
+            "No pets"
+        ],
+        "healthAndSafety": [
+            "No carbon monoxide alarm",
+            "Smoke Alarm",
+            "May encounter potentially dangerous animal"
+        ],
+        "cancellationPolicy": "No refund"
+    },
+    {
+        "id": 4,
+        "userId": "63959034733520a23348f3e3",
+        "title": "Kettle House Galveston - As Seen On TV DIY",
+        "shortDescription": "Welcome to the 'Galveston' famous Kettle House. Enjoy this newly renovated 1960's home originally built as a steel storage tank.",
+        "fullDescription": "Welcome to the 'Galveston' famous Kettle House. Enjoy this newly renovated 1960's home originally built as a steel storage tank. This home has foam insulation and central AC for ultimate comfort. We have high speed Wi-Fi, 4k Smart TV, and includes all the comforts of home. Large deck great for catching rays and relaxing in the breeze. Seen on HGTV/DIY show 'Big Texas Fix'!",
+        "city": "Galveston",
+        "state": "Texas",
+        "country": "United States",
+        "location": "Galveston, Texas, United States",
+        "isAvailable": true,
+        "hostName": "Ashley & Michael",
+        "hostMessage": "Entire home hosted by Ashley & Michael",
+        "nightlyFee": 307,
+        "cleaningFee": 100,
+        "serviceFee": 317,
+        "guests": 6,
+        "bedrooms": 2,
+        "beds": 3,
+        "baths": 1,
+        "images": [
+            "4-001.jpg",
+            "4-002.jpg",
+            "4-003.jpg",
+            "4-004.jpg",
+            "4-005.jpg"
+        ],
+        "thumbnail": "4-001.jpg",
+        "amenities": [
+            "Kitchen, ",
+            "Free parking on premises, ",
+            "Private backyard - Not fully fenced, ",
+            "Refrigerator, ",
+            "Fast wifi - 288 Mbps, ",
+            "Central air conditioning, ",
+            "TV with Amazon Prime Video, Netflix, Roku, ",
+            "Private patio or balcony, ",
+            "Security cameras on property"
+        ],
+        "reviews": {
+            "stars": 4.5,
+            "totalReviews": 4,
+            "review": [
+                {
+                    "name": "Michael",
+                    "date": "October 2022",
+                    "ratings": 5,
+                    "description": "The Kettle House is a Fun and Wonderful Beach-time get away!!! The house is very cute and cozy, and has all that you need for an awesome beach stay. The beaches are just a small walk or short drive away. And the big patio is perfect for morning coffee, meal times, and cocktails while watching the sun, moon, birds, and stars at night!! Thanks Ashley and Michael for Sharing the historic Kettle House with All of Us!"
+                },
+                {
+                    "name": "Adam",
+                    "date": "September 2022",
+                    "ratings": 5,
+                    "description": "Great trip....the Kettle was unique and enjoyable. The service was excellent....We had a couple of questions and the answers came back right away. We'll be back"
+                },
+                {
+                    "name": "Larry",
+                    "date": "August 2022",
+                    "ratings": 4,
+                    "description": "The Kettle House was a great place to stay. Easy access to some good public beach access points. Definitely will come back again! Easy communication with Ashley and Michael."
+                },
+                {
+                    "name": "Dawnell",
+                    "date": "July 2022",
+                    "ratings": 4,
+                    "description": "We loved this most unique place to enjoy with family! Convenient to all the fun of Galveston. Our only negative was that we wished we could stay longer! Looking forward to coming back, thanks Micheal & Ashley for sharing the Kettle House!!"
+                }
+            ]
+        },
+        "houseRules": [
+            "Check-in: After 4:00 PM",
+            "Checkout: 11:00 AM",
+            "Self check-in with smart lock",
+            "No parties or events",
+            "No smoking",
+            "No pets"
+        ],
+        "healthAndSafety": [
+            "No carbon monoxide alarm",
+            "Smoke Alarm",
+            "Security camera/recording device"
+        ],
+        "cancellationPolicy": "No refund"
+    },
+    {
+        "id": 5,
+        "userId": "63959034733520a23348f3e3",
+        "title": "Smith Lake Cave with waterfalls & more",
+        "shortDescription": "You won't find anything with more character than the Cave and its surroundings. Nestled at the end of a slough on Smith Lake.",
+        "fullDescription": "You won't find anything with more character than the Cave and its surroundings. Nestled at the end of a slough on Smith Lake, its seclusion adds to the appeal. Explore the waterfalls, the lake, and the cave and its unique features. Retire to the rustic cabin with beautiful lake views, indoor fireplace, and natural accents.",
+        "city": "Houston",
+        "state": "Alabama",
+        "country": "United States",
+        "location": "Houston, Alabama, United States",
+        "isAvailable": true,
+        "hostName": "Ashley & Michael",
+        "hostMessage": "Entire home hosted by Ashley & Michael",
+        "nightlyFee": 433,
+        "cleaningFee": 200,
+        "serviceFee": 395,
+        "guests": 4,
+        "bedrooms": 1,
+        "beds": 2,
+        "baths": 1,
+        "images": [
+            "5-001.jpg",
+            "5-002.jpg",
+            "5-003.jpg",
+            "5-004.jpg",
+            "5-005.jpg"
+        ],
+        "thumbnail": "5-001.jpg",
+        "amenities": [
+            "Kitchen, ",
+            "Free parking on premises, ",
+            "Lake view, ",
+            "Refrigerator, ",
+            "Waterfront, ",
+            "AC - split type ductless system, ",
+            "TV with Amazon Prime Video, Netflix, Roku, ",
+            "Washer and Dryer, ",
+            "Security cameras on property"
+        ],
+        "reviews": {
+            "stars": 3.5,
+            "totalReviews": 4,
+            "review": [
+                {
+                    "name": "Annie",
+                    "date": "October 2022",
+                    "ratings": 3,
+                    "description": "Awesome views. Such a treat to stay in a cave for 3 days. Just know it’s a long way down and a longer way back up. If you can handle that, it’s well worth the trip."
+                },
+                {
+                    "name": "Britney",
+                    "date": "September 2022",
+                    "ratings": 3,
+                    "description": "This place is absolutely amazing! Such a great location. This is close to the Bankhead National Park and there are some really great trails for all skill levels."
+                },
+                {
+                    "name": "Tamra",
+                    "date": "August 2022",
+                    "ratings": 4,
+                    "description": "A great way to celebrate a 60th birthday - even in the pouring rain the cave had plenty of room to host our gathering in the dry and keep the candles burning! We enjoyed paddling around the quiet lake on Monday and the peacefulness of the whole place. Wonderful visit!"
+                },
+                {
+                    "name": "Brett",
+                    "date": "July 2022",
+                    "ratings": 4,
+                    "description": "Pictures don't do it justice, the place was awesome. Had fun exploring and relaxing. I've stayed at a ton of Airbnb's and probably the coolest I've ever been in."
+                }
+            ]
+        },
+        "houseRules": [
+            "Check-in: After 3:00 PM",
+            "Checkout: 11:00 AM",
+            "Self check-in with smart lock",
+            "Not suitable for infants (under 2 years)",
+            "Smoking is allowed",
+            "No pets"
+        ],
+        "healthAndSafety": [
+            "Heights without rails or protection",
+            "Nearby lake, river, other body of water",
+            "Carbon monoxide alarm",
+            "Smoke Alarm",
+            "Security camera/recording device"
+        ],
+        "cancellationPolicy": "Full refund: Get back 100% of what you paid."
+    },
+    {
+        "id": 6,
+        "userId": "63959034733520a23348f3e3",
+        "title": "Wild&Free Tinyhome Glamping Close to Garner Park",
+        "shortDescription": "You'll be runnin' free in this eclectic, bright and airy one bedroom tiny home.",
+        "fullDescription": "You'll be runnin' free in this eclectic, bright and airy one bedroom tiny home. Colorful accents, African wax fabric, and plants galore, you'll be glamping in style. Located right off of highway 83, about 3.4 miles from Garner Park and 2.6 miles from the Frio River, you love crashing here after a day of floatin' the frio and exploring Garner State Park.",
+        "city": "Concan",
+        "state": "Texas",
+        "country": "United States",
+        "location": "Concan, Texas, United States",
+        "isAvailable": true,
+        "hostName": "Leah & Jake",
+        "hostMessage": "Tiny home hosted by Leah & Jake",
+        "nightlyFee": 168,
+        "cleaningFee": 50,
+        "serviceFee": 126,
+        "guests": 4,
+        "bedrooms": 1,
+        "beds": 3,
+        "baths": 1,
+        "images": [
+            "6-001.jpg",
+            "6-002.jpg",
+            "6-003.jpg",
+            "6-004.jpg",
+            "6-005.jpg"
+        ],
+        "thumbnail": "6-001.jpg",
+        "amenities": [
+            "Garden view, ",
+            "Free parking on premises, ",
+            "Private patio or balcony, ",
+            "Shared backyard - Not fully fenced, ",
+            "Waterfront, ",
+            "Window AC unit, ",
+            "TV with Amazon Prime Video, Netflix, Roku, ",
+            "Washer and Dryer, ",
+            "Security cameras on property"
+        ],
+        "reviews": {
+            "stars": 4,
+            "totalReviews": 4,
+            "review": [
+                {
+                    "name": "Kylie",
+                    "date": "October 2022",
+                    "ratings": 4,
+                    "description": "Leah & Jake had everything we needed in lodging! They're listing was accurate and so close to Garner State park! Wonderful stay. We will be back and will bring our extended family!"
+                },
+                {
+                    "name": "Matthew",
+                    "date": "September 2022",
+                    "ratings": 4,
+                    "description": "The place was great, it was perfect for a long weekend getaway with just my wife and I. It was clean and comfortable."
+                },
+                {
+                    "name": "Virginia",
+                    "date": "August 2022",
+                    "ratings": 4,
+                    "description": "We actually didn't get a chance to stay because our truck broke down 7 hrs from Leah and Jake's place. But they were so kind and understanding that I look forward to rebooking in the future!"
+                },
+                {
+                    "name": "Brandy",
+                    "date": "July 2022",
+                    "ratings": 4,
+                    "description": "Would definitely stay here again. Would love to stay at another one of the tiny homes on the property."
+                }
+            ]
+        },
+        "houseRules": [
+            "Check-in: After 3:00 PM",
+            "Checkout: 11:00 AM",
+            "No parties or events",
+            "No smoking",
+            "No pets"
+        ],
+        "healthAndSafety": [
+            "Carbon monoxide detector not required",
+            "Carbon monoxide alarm",
+            "Security camera/recording device"
+        ],
+        "cancellationPolicy": "Partial refund: Get back 50% of every night. No refund of the service fee."
+    },
+    {
+        "id": 7,
+        "userId": "63959034733520a23348f3e3",
+        "title": "Renovated ski-in/ski-out Holiday Valley",
+        "shortDescription": "Renovated condo with 1 private bedroom (queen), loft (full, twin over full bunk, twin sofa bed) & full bath.",
+        "fullDescription": "Renovated condo with 1 private bedroom (queen), loft (full, twin over full bunk, twin sofa bed) & full bath. Beautiful galley kitchen w/ stainless appliances, hickory cabinets, quartz countertops. Living Room includes large Roku TV & gas fireplace. Parking, WiFi, cable TV and in-unit laundry included. Patio has 4 chairs and electric grill. Easy keyless entry. Building is next to SnowPine lift @ Holiday Valley. Shuttle to main lodge on the hour. Use lit trails to return to condo at night.",
+        "city": "Ellicottville",
+        "state": "New York",
+        "country": "United States",
+        "location": "Ellicottville, New York, United States",
+        "isAvailable": true,
+        "hostName": "Josh",
+        "hostMessage": "Entire condo hosted by Josh",
+        "nightlyFee": 133,
+        "cleaningFee": 69,
+        "serviceFee": 104,
+        "guests": 8,
+        "bedrooms": 2,
+        "beds": 5,
+        "baths": 1,
+        "images": [
+            "7-001.jpg",
+            "7-002.jpg",
+            "7-003.jpg",
+            "7-004.jpg",
+            "7-005.jpg"
+        ],
+        "thumbnail": "7-001.jpg",
+        "amenities": [
+            "Ski-in/Ski-out, ",
+            "Free parking on premises, ",
+            "Private patio or balcony, ",
+            "Indoor fireplace, ",
+            "Kitchen, ",
+            "Air conditioning, ",
+            "TV with standard cable, ",
+            "Washer and Dryer, ",
+            "Security cameras on property"
+        ],
+        "reviews": {
+            "stars": 4.5,
+            "totalReviews": 4,
+            "review": [
+                {
+                    "name": "Anne",
+                    "date": "October 2022",
+                    "ratings": 5,
+                    "description": "Josh's place is a great little spot! It was a perfect place for me and my son to spend a couple days in E'ville."
+                },
+                {
+                    "name": "Yunchul",
+                    "date": "September 2022",
+                    "ratings": 5,
+                    "description": "It was a great place to take a vacation."
+                },
+                {
+                    "name": "Luisa",
+                    "date": "September 2022",
+                    "ratings": 4,
+                    "description": "Super nice and accommodating place! Very well kept :)"
+                },
+                {
+                    "name": "Jordan",
+                    "date": "September 2022",
+                    "ratings": 4,
+                    "description": "So peaceful and the place was very nice!"
+                }
+            ]
+        },
+        "houseRules": [
+            "Check-in: After 3:00 PM",
+            "Checkout: 11:00 AM",
+            "Self check-in with smart lock",
+            "No parties or events",
+            "No smoking",
+            "No pets"
+        ],
+        "healthAndSafety": [
+            "Smoke Alarm",
+            "Carbon monoxide alarm"
+        ],
+        "cancellationPolicy": "No refund"
+    },
+    {
+        "id": 8,
+        "userId": "63959034733520a23348f3e3",
+        "title": "Entertainment paradise w/ kayaks & Starlink Wi-Fi",
+        "shortDescription": "Located on the south part of Cedar Creek Lake. Newly updated home with fresh paint and updated decor.",
+        "fullDescription": "Located on the south part of Cedar Creek Lake. Newly updated home with fresh paint and updated decor. All new mattresses and bedding in bedrooms. Washer and dryer provided. Walk in showers and tubs in both bathrooms. Not far from breweries and local wineries. Great for multiples families or romantic getaways. Enjoy outdoor seating on the party deck with great sunrise views of the open water and a fire pit with string lighting above.",
+        "city": "Mabank",
+        "state": "Texas",
+        "country": "United States",
+        "location": "Mabank, Texas, United States",
+        "isAvailable": true,
+        "hostName": "Chris",
+        "hostMessage": "Entire home hosted by Chris",
+        "nightlyFee": 300,
+        "cleaningFee": 145,
+        "serviceFee": 233,
+        "guests": 10,
+        "bedrooms": 3,
+        "beds": 7,
+        "baths": 2,
+        "images": [
+            "8-001.jpg",
+            "8-002.jpg",
+            "8-003.jpg",
+            "8-004.jpg",
+            "8-005.jpg"
+        ],
+        "thumbnail": "8-001.jpg",
+        "amenities": [
+            "Lake view, ",
+            "Waterfront, ",
+            "Fast wifi - 58 Mbps, ",
+            "Free parking on premises, ",
+            "Private patio or balcony, ",
+            "Canal view, ",
+            "Kitchen, ",
+            "Air conditioning, ",
+            "HDTV with premium cable, standard cable, ",
+            "Washer and Dryer, ",
+            "Security cameras on property"
+        ],
+        "reviews": {
+            "stars": 4,
+            "totalReviews": 4,
+            "review": [
+                {
+                    "name": "Eric",
+                    "date": "October 2022",
+                    "ratings": 4,
+                    "description": "Beautiful house with great amenities! Chris was very communicative during our stay which made the experience great!"
+                },
+                {
+                    "name": "Amy",
+                    "date": "September 2022",
+                    "ratings": 4,
+                    "description": "Best rental EVER. House, neighborhood, furnishing and view were priceless!! Lots of local places close and on the water was so relaxing!"
+                },
+                {
+                    "name": "Catherine",
+                    "date": "July 2022",
+                    "ratings": 4,
+                    "description": "Relaxing stay! We stayed over July 4th and enjoyed hanging out in the large dock in the evenings. The boys took out the kayaks a few times which they enjoyed. The home was as described. Thanks for sharing your lake house with us."
+                },
+                {
+                    "name": "Josefina",
+                    "date": "April 2022",
+                    "ratings": 4,
+                    "description": "Loved the place, Chris response time is almost instantly. The house is equipped with everything pots, pans, even spices. My family had a great time!"
+                }
+            ]
+        },
+        "houseRules": [
+            "Check-in: After 4:00 PM",
+            "Checkout: 11:00 AM",
+            "Self check-in with smart lock",
+            "No parties or events",
+            "No smoking",
+            "No pets"
+        ],
+        "healthAndSafety": [
+            "Smoke Alarm",
+            "Carbon monoxide alarm",
+            "Nearby lake, river, other body of water"
+        ],
+        "cancellationPolicy": "No refund"
+    }
+]
