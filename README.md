@@ -1,5 +1,9 @@
 # wpl_airbnb
 
+It is a mini version of Airbnb implementation (an online property management website). It is a course project CS 6314 Web Programming Languages under Prof. Nurcan Yuruk.
+
+I am thankful to her to give me such an opportunity to learn and sharpen new skills.
+
 Prerequisite:
 
 Install Postman, Node(v19.0.1), MongoDB.
