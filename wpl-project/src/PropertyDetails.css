@@ -1,0 +1,41 @@
+.placeicon{ 
+    font-family: fontawesome;
+  }
+
+.nodecoration{
+    color: #111212;
+    text-decoration: none;
+}
+
+.nodecoration:hover{
+    color: #111212;
+    text-decoration: none;
+}
+
+.card {
+    width: 25%;
+    /* padding: 0.5%; */
+    border: 0px;
+}
+
+.card-img-top {
+    height: 20rem;
+}
+
+.flex-container {
+    width: 100%;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-around;
+    /* padding-bottom: 20px; */
+}
+
+.grid-container {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 20px;
+}
+
+.overflow-scroll{
+    overflow: auto;
+}
