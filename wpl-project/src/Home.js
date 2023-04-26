@@ -76,10 +76,11 @@ function CardItems({ properties, filterText }) {
   const cards = [];
 
   properties.forEach((property) => {
-    if (property.title.toLowerCase().indexOf(filterText.toLowerCase()) === -1) {
-      if (property.location.toLowerCase().indexOf(filterText.toLowerCase()) === -1) {
-        return;
-      }
+    if (property.title?.toLowerCase().indexOf(filterText.toLowerCase()) === -1
+    && property.country?.toLowerCase().indexOf(filterText.toLowerCase()) === -1
+    && property.state?.toLowerCase().indexOf(filterText.toLowerCase()) === -1
+    && property.city?.toLowerCase().indexOf(filterText.toLowerCase()) === -1) {
+      return
     }
     cards.push(
       <Cards

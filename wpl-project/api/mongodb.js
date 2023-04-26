@@ -1,6 +1,6 @@
 const mongoose = require('mongoose')
 
-const url = 'mongodb+srv://wpladmin:wpladmin@cluster0.tvja9x7.mongodb.net/wpl_airbnb?retryWrites=true&w=majority';
+const url = 'mongodb://localhost:27017/';
 
 const connectionParams={
     useNewUrlParser: true,
@@ -13,3 +13,8 @@ mongoose.connect(url,connectionParams)
     .catch( (err) => {
         console.error(`Error connecting to the database. n${err}`);
     })
+
+
+
+    //local address: mongodb://localhost:27017/
+    //connect with mongob compass

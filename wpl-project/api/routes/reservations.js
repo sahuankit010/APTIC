@@ -35,7 +35,7 @@ router.get('/:id', async (req, res) => {
 router.get('/', async (req, res) => {
     var val = req.query;
     try {
-        if (Object.keys(val).length == 0) {
+        if (Object.keys(val).length === 0) {
             console.log("reservations")
             const reservations = await Reservations.find()
             res.send(reservations)

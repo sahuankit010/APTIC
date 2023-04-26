@@ -128,7 +128,7 @@ const SignUp = () => {
               <div className="text-danger">{errors.contact}</div>
             </div>
             <div className="form-outline mb-2">
-              <label className="form-label">Date of Birth</label>
+              <label className="form-label">Date of Birth (format MM/DD/YYYY)</label>
               <input name="dob" type="text" className="form-control" placeholder="Enter date of birth" value={input.dob} onChange={handleChange} />
             </div>
             <button type="button" className="btn btn-primary btn-block mb-2" onClick={handleSubmit}>Submit</button>
