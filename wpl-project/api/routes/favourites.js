@@ -12,7 +12,7 @@ router.get('/:id', async (req, res) => {
     const users = await User.findById(req.params.id)
     const favourites = users.favourites;
     var favouriteProperties = JSON.parse('[]');
-    for (i = 0; i < favourites.length; i++) {
+    for (var i = 0; i < favourites.length; i++) {
         const favouriteProperty = await Properties.findById(favourites[i])
         favouriteProperties.push(favouriteProperty)
     }
